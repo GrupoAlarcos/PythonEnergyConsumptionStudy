@@ -1,0 +1,150 @@
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/pidigits/pidigits.python3-2.py", line 7, in <module>
+    import sys
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1

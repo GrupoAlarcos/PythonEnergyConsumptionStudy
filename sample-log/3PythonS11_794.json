@@ -1,0 +1,40 @@
+{
+
+"//":"informacion del proyecto:",
+"00":"Interpretado sin declarar variables",
+	"project":"PythonS11",
+	"versions":["SE1"],
+	"testcases":["binary-trees"],
+	"measurements":"30",
+	"executions":"1",
+
+"0//":"informacion para EETHAN:",
+	"config_v":"false",
+	"end_v":"false",
+	"config_tc":"false",
+	"end_tc":"false",
+	"config_m":"false",
+	"end_m":"true",
+
+	"compile":"false",
+	"result":"false",
+
+"1//":"informacion para ELLIOT:",
+	"allMeasurements":"false",
+	"firstValidValue":"1064.0",
+	"lastValidValue":"1588.0",
+	
+	"time":"true",
+	"hdd":"true",
+	"graphicsCard":"true",
+	"process":"true",
+	"monitor":"false",
+	"dut":"true",
+
+	"img_hdd":"false",
+	"img_graphicsCard":"false",
+	"img_process":"false",
+	"img_monitor":"false",
+	"img_dut":"true"
+
+}

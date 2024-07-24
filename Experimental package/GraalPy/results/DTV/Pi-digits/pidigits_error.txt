@@ -1,0 +1,210 @@
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/pidigits/pidigits.python3-2.py", line 9, in <module>
+    from gmpy2 import xmpz,div,mul,add
+  File "/home/alarcos/.local/lib/python3.8/site-packages/gmpy2/__init__.py", line 1, in <module>
+    from .gmpy2 import *
+ModuleNotFoundError: No module named 'gmpy2.gmpy2'
+make: *** [Makefile:2: run] Error 1

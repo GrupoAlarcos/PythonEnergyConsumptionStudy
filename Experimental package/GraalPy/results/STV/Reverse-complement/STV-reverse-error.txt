@@ -1,0 +1,150 @@
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE8/reverse-complement/revcomp.python3-6.py", line 6, in <module>
+    from sys import stdin, stdout
+TypeError: 'module' object is not subscriptable
+make: *** [Makefile:2: run] Error 1

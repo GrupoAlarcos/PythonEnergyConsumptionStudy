@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/__init__.py", line 16, in <module>
+    from . import context
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/context.py", line 6, in <module>
+    from . import reduction
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/reduction.py", line 15, in <module>
+    import pickle
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/pickle.py", line 33, in <module>
+    from struct import pack, unpack
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/struct.py", line 13, in <module>
+    from _struct import *
+SystemError: java.lang.NullPointerException
+com.oracle.graal.python.runtime.exception.PythonExitException

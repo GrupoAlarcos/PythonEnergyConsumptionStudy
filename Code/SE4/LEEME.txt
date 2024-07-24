@@ -1,0 +1,1 @@
+Interpretado declarando variables

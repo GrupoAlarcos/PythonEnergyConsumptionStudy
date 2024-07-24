@@ -1,0 +1,207 @@
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 2
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 2
+make: *** [Makefile:2: run] Error 1
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 2
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 2
+make: *** [Makefile:2: run] Error 1
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 6
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 6
+make: *** [Makefile:2: run] Error 1
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 0
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 0
+make: *** [Makefile:2: run] Error 1
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 4
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 4
+make: *** [Makefile:2: run] Error 1
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 0
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 0
+make: *** [Makefile:2: run] Error 1
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 5
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 5
+make: *** [Makefile:2: run] Error 1
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 0
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 0
+make: *** [Makefile:2: run] Error 1
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 28, in __call__
+    sequence = lean_buffer[lean_key]
+KeyError: 11
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 186, in <module>
+    main()
+  File "/home/alarcos/EETHAN/SE4/k-nucleotide/knucleotide.python3-3.py", line 179, in main
+    results = list(chain(*async_results.get()))
+  File "/usr/lib/jvm/graalvm-ce-java17-22.3.1/languages/python/lib-python/3/multiprocessing/pool.py", line 771, in get
+    raise self._value
+KeyError: 11
+make: *** [Makefile:2: run] Error 1
